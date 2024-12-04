@@ -4,6 +4,7 @@ from termcolor import colored
 import csv
 from datetime import datetime
 
+
 # 常用软件源列表
 software_sources = [
     {"name": "Docker 官方镜像", "url": "https://registry-1.docker.io/"},
