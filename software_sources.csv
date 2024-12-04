@@ -1,0 +1,69 @@
+软件源检测报告
+时间：2024-12-03 09:52:05
+
+软件源名称,URL,响应状态,可访问性
+Docker 官方镜像,https://registry-1.docker.io/,连接失败,不可访问
+Docker Hub,https://hub.docker.com/,连接失败,不可访问
+Docker 官方网站,https://www.docker.com,200 OK,可访问
+Docker 阿里云镜像,https://cr.console.aliyun.com/,200 OK,可访问
+npm 官方源,https://registry.npmjs.org/,200 OK,可访问
+npm 淘宝镜像,https://registry.npmmirror.com/,200 OK,可访问
+Maven 中央仓库,https://repo1.maven.org/maven2/,连接失败,不可访问
+Maven 阿里云镜像,https://maven.aliyun.com/repository/central,404 Not Found,服务器可达，页面不存在
+PyPI 官方源,https://pypi.org/simple/,200 OK,可访问
+PyPI 清华大学镜像,https://pypi.tuna.tsinghua.edu.cn/simple/,200 OK,可访问
+PyPI 豆瓣镜像,https://pypi.doubanio.com/simple/,200 OK,可访问
+Ubuntu 官方源,http://archive.ubuntu.com/ubuntu/,200 OK,可访问
+Ubuntu 阿里云镜像,http://mirrors.aliyun.com/ubuntu/,200 OK,可访问
+CentOS 官方源,http://mirror.centos.org/centos/,200 OK,可访问
+CentOS 网易镜像,http://mirrors.163.com/centos/,200 OK,可访问
+Alpine 官方源,http://dl-cdn.alpinelinux.org/alpine/,200 OK,可访问
+Alpine 阿里云镜像,http://mirrors.aliyun.com/alpine/,200 OK,可访问
+Fedora 官方源,https://download.fedoraproject.org/,200 OK,可访问
+Fedora 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/fedora/,200 OK,可访问
+Arch Linux 官方源,https://archlinux.org/,200 OK,可访问
+Arch Linux 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/archlinux/,200 OK,可访问
+Debian 官方源,http://deb.debian.org/debian/,200 OK,可访问
+Debian 中科大镜像,https://mirrors.ustc.edu.cn/debian/,200 OK,可访问
+Gentoo 官方源,http://distfiles.gentoo.org/,200 OK,可访问
+Gentoo 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/gentoo/,200 OK,可访问
+OpenSUSE 官方源,http://download.opensuse.org/,200 OK,可访问
+OpenSUSE 阿里云镜像,http://mirrors.aliyun.com/opensuse/,200 OK,可访问
+Kali Linux 官方源,http://http.kali.org/kali/,200 OK,可访问
+Kali Linux 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/kali/,200 OK,可访问
+Manjaro 官方源,https://manjaro.org/download/,200 OK,可访问
+Manjaro 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/manjaro/,200 OK,可访问
+Linux Mint 官方源,http://packages.linuxmint.com/,200 OK,可访问
+Linux Mint 中科大镜像,https://mirrors.ustc.edu.cn/linuxmint/,200 OK,可访问
+Deepin 官方源,https://community-packages.deepin.com/deepin/,200 OK,可访问
+Deepin 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/deepin/,200 OK,可访问
+FreeBSD 官方源,http://ftp.freebsd.org/pub/FreeBSD/,200 OK,可访问
+OpenBSD 官方源,http://ftp.openbsd.org/pub/OpenBSD/,200 OK,可访问
+OpenBSD 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/OpenBSD/,200 OK,可访问
+CPAN 官方源,http://www.cpan.org/,200 OK,可访问
+CPAN 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/CPAN/,200 OK,可访问
+CRAN 官方源,https://cran.r-project.org/,200 OK,可访问
+CRAN 中科大镜像,https://mirrors.ustc.edu.cn/CRAN/,200 OK,可访问
+CTAN 官方源,http://www.ctan.org/,200 OK,可访问
+CTAN 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/CTAN/,200 OK,可访问
+RubyGems 官方源,https://rubygems.org/,200 OK,可访问
+RubyGems 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/rubygems/,200 OK,可访问
+Homebrew 官方源,https://brew.sh/,200 OK,可访问
+Homebrew 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/,200 OK,可访问
+Go Modules 官方代理,https://proxy.golang.org/,连接失败,不可访问
+Go Modules 七牛云代理,https://goproxy.cn/,200 OK,可访问
+Go Modules 阿里云代理,https://mirrors.aliyun.com/goproxy/,404 Not Found,服务器可达，页面不存在
+Anaconda 官方源,https://repo.anaconda.com/pkgs/,200 OK,可访问
+Anaconda 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/anaconda/,200 OK,可访问
+Python 官方发布,https://www.python.org/ftp/python/,200 OK,可访问
+Python 华为云镜像,https://mirrors.huaweicloud.com/python/,200 OK,可访问
+Node.js 官方发布,https://nodejs.org/dist/,200 OK,可访问
+Node.js 清华大学镜像,https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/,200 OK,可访问
+Helm 官方发布,https://github.com/helm/helm/releases,200 OK,可访问
+Quay.io 官方镜像,https://quay.io/,200 OK,可访问
+
+完全不可访问的网址
+Docker 官方镜像,https://registry-1.docker.io/
+Docker Hub,https://hub.docker.com/
+Maven 中央仓库,https://repo1.maven.org/maven2/
+Go Modules 官方代理,https://proxy.golang.org/
